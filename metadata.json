@@ -1,0 +1,6 @@
+{
+  "name": "Omni Cloud Website",
+  "description": "Premium official website and admin panel for the Omni Cloud Android application.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
